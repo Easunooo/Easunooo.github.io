@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Easun&#39;s Blog</title>
+        <link>easunooo.github.io/categories/</link>
+        <description>Recent content in Categories on Easun&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="easunooo.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>R</title>
+        <link>easunooo.github.io/categories/r/</link>
+        <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/r/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Time Series</title>
+        <link>easunooo.github.io/categories/time-series/</link>
+        <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/time-series/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>syntax</title>
+        <link>easunooo.github.io/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>themes</title>
+        <link>easunooo.github.io/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>تجربة</title>
+        <link>easunooo.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>تجربة مع فراغات</title>
+        <link>easunooo.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>easunooo.github.io/categories/test/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>easunooo.github.io/categories/test/</guid>
+        <description>&lt;img src="/easunooo.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
